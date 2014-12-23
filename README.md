@@ -15,6 +15,11 @@ Utilización
 1. En "Horario"
   * Introduce horas semanales, fechas de curso y días de fiesta.
 2. En "Unidades"
-  * Introduce los títulos de las unidades, el trimestre y la duración inicial.
+  * Introduce los títulos de las unidades y la duración inicial.
 3. En "seguimiento"
-  * Actualiza la columna unidad y actividad con la planificación día a día.
+  * Actualiza la columna "Unidad Realizada" y "Actividad" cada día de clase.
+
+Opcional
+--------
+
+Puedes cambiar los estilos en la categoría "Personalizados".
