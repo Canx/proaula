@@ -13,10 +13,8 @@ Utilización
 -----------
 
 1. En "Horario"
-  * Introduce horas semanales y fechas de curso.
-2. En "Seguimiento"
-  * Añade los dias de fiesta en la columna "Tipo".
+  * Introduce horas semanales, fechas de curso y días de fiesta.
 2. En "Unidades"
   * Introduce los títulos de las unidades, el trimestre y la duración inicial.
-4. En "seguimiento"
+3. En "seguimiento"
   * Actualiza la columna unidad y actividad con la planificación día a día.
