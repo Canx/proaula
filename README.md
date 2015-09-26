@@ -20,15 +20,15 @@ Utilización
   * Actualiza la columna "Unidad Realizada" y "Actividad" cada día de clase.
   * 
   
-Exportación a Google Sheets
+Exportación a Google Drive
 ---------------------------
 
-Para su uso en Google Sheets se recomiendan los siguientes pasos:
+Para su uso en Google Drive se recomiendan los siguientes pasos:
 
 1. Abre el archivo con la versión más reciente de Libreoffice Calc.
 2. Exporta al formato xlsx (Microsoft Excel 2003/2007/2013)
 3. Sube el archivo exportado a Google Drive
-4. Abre y transforma automáticamente la hoja a Google Sheets
+4. Abre y transforma automáticamente la hoja al formato de Google Sheets
 
 Opcional
 --------
