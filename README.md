@@ -18,7 +18,6 @@ Utilización
   * Introduce los títulos de las unidades y su duración estimada en horas.
 3. En "seguimiento"
   * Actualiza la columna "Unidad Realizada" y "Actividad" cada día de clase.
-  * 
   
 Exportación a Google Drive
 ---------------------------
